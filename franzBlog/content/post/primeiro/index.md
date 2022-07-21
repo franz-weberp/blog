@@ -11,5 +11,6 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "cover.jpg"
+image = "cover-primeiro.png"
+
 +++
