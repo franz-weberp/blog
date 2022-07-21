@@ -4,14 +4,10 @@ title = "Markdown Syntax Guide"
 date = "2022-07-21"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "devaneios"
 ]
 categories = [
-    "themes",
-    "syntax",
+    "Devaneios"
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]

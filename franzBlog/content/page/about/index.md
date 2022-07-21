@@ -1,13 +1,13 @@
 ---
 title: Autor
-description: É verdadeiramente desafiador tentar se entender
-date: '2022-07-21'
+description: Franz Weber
+date: '1997-04-07'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2022-07-21'
+lastmod: ''
 menu:
     main: 
         weight: -90
