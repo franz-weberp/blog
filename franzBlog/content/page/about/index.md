@@ -1,7 +1,7 @@
 ---
 title: Autor
 description: Franz Weber
-date: '1997-04-07'
+date: "1997-04-07"
 aliases:
   - about-us
   - about-hugo
