@@ -174,11 +174,16 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/franz-weberp/blog
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/franz_wp/
           params:
-              icon: brand-github
+              icon: brand-instagram
+        - identifier: telegram
+          name: Telegram
+          url: https://t.me/franzweber
+          params:
+              icon: brand-telegram
 
 related:
     includeNewer: true
