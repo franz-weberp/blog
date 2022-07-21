@@ -2,7 +2,7 @@ baseurl: https://franz.blog.br
 languageCode: pt-br
 theme: hugo-theme-stack
 paginate: 5
-title: Blog do Franz
+title: Franz Weber
 
 #languages:
 #    pt-br:
