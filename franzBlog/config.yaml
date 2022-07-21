@@ -11,7 +11,7 @@ title: Franz Weber
 #        weight: 1
 
 # Change it to your Disqus shortname before using
-#disqusShortname: hugo-theme-stack
+disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
 googleAnalytics:
@@ -60,33 +60,33 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
-        # provider: disqus
+        enabled: false
+        provider: disqus
 
-        # disqusjs:
-        #     shortname:
-        #     apiUrl:
-        #     apiKey:
-        #     admin:
-        #     adminLabel:
+        disqusjs:
+            shortname:
+            apiUrl:
+            apiKey:
+            admin:
+            adminLabel:
 
-        # utterances:
-        #     repo:
-        #     issueTerm: pathname
-        #     label:
+        utterances:
+            repo:
+            issueTerm: pathname
+            label:
 
-        # remark42:
-        #     host:
-        #     site:
-        #     locale:
+        remark42:
+            host:
+            site:
+            locale:
 
-        # vssue:
-        #     platform:
-        #     owner:
-        #     repo:
-        #     clientId:
-        #     clientSecret:
-        #     autoCreateIssue: false
+        vssue:
+            platform:
+            owner:
+            repo:
+            clientId:
+            clientSecret:
+            autoCreateIssue: false
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:

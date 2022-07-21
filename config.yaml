@@ -15,8 +15,8 @@ params:
         customText:
 
     dateFormat:
-        published: Jul 21, 20022
-        lastUpdated: Jul 21, 20022 15:04 MST
+        published: Jul 21, 2022
+        lastUpdated: Jul 21, 2022 15:04 MST
 
     sidebar:
         compact: false
@@ -44,8 +44,6 @@ params:
             lang:
             visitor:
             avatar:
-            emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
             requiredMeta:
                 - name
                 - email
