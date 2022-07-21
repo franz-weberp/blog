@@ -1,6 +1,6 @@
 +++
-author = "Hugo Authors"
-title = "Qual o seu animal favorito?"
+author = "Franz Weber Pimentel"
+title = "Qual é o seu animal favorito?"
 date = "2022-07-21"
 description = "Uma pergunta que pode render assunto para um dia inteiro de conversa"
 tags = [
@@ -13,7 +13,7 @@ image = "cover-primeiro.png"
 
 +++
 
-Qual o seu animal favorito? Cachorro... Gato... Passarinho... Peixe...
+Qual é o seu animal favorito? Cachorro... Gato... Passarinho... Peixe...
 Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
 
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
