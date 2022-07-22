@@ -21,7 +21,7 @@ Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
 na maioria das vezes pensava: 
 
-"Ue, vou apenas de falar gato e então você vai se contentar com a resposta, ou no máximo 
+"Ué, vou apenas de falar gato e então você vai se contentar com a resposta, ou no máximo 
 me perguntar o porquê ou falar qual e o seu, e nada mais. Você não quer que eu reflita profundamente 
 sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? 
 Jogar conversa fora? Matar tempo? Criar conexões? Tentar me conhecer?"
@@ -40,7 +40,7 @@ depende da situação em que me perguntam... afinal, na vida tudo depende de alg
 ## Sentido...
 Uma palavra bem estranha.
 * Pode ser um substantivo: 'Significado de uma palavra'
-* Pode ser um adjetivo: 'Ofendido com facilidade, res`Sentido`, comportamento sem `Sentido`'
+* Pode ser um adjetivo: 'Ofendido com facilidade, resentido, comportamento sem `Sentido`
 * Pode ser uma interjeição: 'Expressão de atenção ou cuidado'
 * Particípio de sentir
 
@@ -66,7 +66,7 @@ tchau...
 Mas se quiser podemos conversar, eu escrevo aqui o que eu penso e você lê daí, tira suas
 conclusões baseadas no que você sente.
 
-O fato de termos pensamentos e ideias e algo complicado para o ser humano apesar de fazer parte da nossa natureza, 
+O fato de termos pensamentos e ideias é algo complicado para o ser humano apesar de fazer parte da nossa natureza, 
 escrevendo esse trecho parei algumas vezes porque não estava mais lembrando das minhas intenções com esse texto.
 
 O fato de termos ideias e pensamentos não as explica, não explica como vemos o mundo.
@@ -163,20 +163,19 @@ mais ampla, rigorosa e sistematizada no ocidente (Sim eu lembro dessas paradas p
 que eu argumento comigo mesmo frequentemente como disse lá no começo do texto, já disse, o ser humano
 e sua mania de querer tornar suas histórias consistentes 😅😅
 
-Beleza cobrimos a parte da `Consistência` das narrativas das nossas histórias utilizando a Logica,
-conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na Logica
+Beleza cobrimos a parte da `Consistência` das narrativas das nossas histórias utilizando a Lógica,
+conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na Lógica
 não temos `Consistência`, porque, se não tivermos `Lógica`, logo não teremos `Consistência` 😩
 
-E agora? Não podemos nos apoiar na Logica para darmos `Consistência` as nossas narrativas e atingimos
+E agora? Não podemos nos apoiar na Lógica para darmos `Consistência` as nossas narrativas e atingimos
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
 que precisamos de um verdadeiro 'Deus Ex Machina'. E isso, precisamos da ajuda de Deus.
 
-Dentro dos nossos 7 Paladinos da humanidade quando o assunto e se expressar sem utilizar a Logica
+Dentro dos nossos 7 Paladinos da humanidade quando o assunto e se expressar sem utilizar a Lógica
 podemos utilizar os Religiosos como fonte de explicação para as nossas histórias, ou melhor dizendo,
 a religião. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos
 definir algumas coisas.
 
-Logica
 
 ### Religião
 #### O que seria a Religião (Hora do Wikipedia):
@@ -186,7 +185,7 @@ Logica
 >'... Dentro do que se define como religião podem-se encontrar muitas crenças e filosofias diferentes. As diversas religiões do mundo são de facto muito diferentes entre si. Porém ainda assim é possível estabelecer uma característica em comum entre todas elas... As religiões costumam também possuir relatos sobre a origem do Universo, da Terra e do Homem, e o que acontece após a morte...'
 
 `Consistências`, `Consistências` e `Consistências`. Ótimo! Dessa forma podemos seguir dando 
-`Consistência` para as nossas narrativas hora utilizando a Logica, hora utilizando a Religião.
+`Consistência` para as nossas narrativas hora utilizando a Lógica, hora utilizando a Religião.
 
 <br>
 
@@ -195,7 +194,7 @@ So para relembramos algumas coisas então:
 1. O ser humano e insatisfeito com sua natureza;
 2. Somos obcecados com Histórias (inclusive as nossas);
 3. Para termos boas Histórias precisamos de uma Narrativa que seja Consistente;
-4. Para garantirmos nossa `Consistência` temos dois sistemas: Logica e Esperança;
+4. Para garantirmos nossa `Consistência` temos dois sistemas: Lógica e Esperança;
 
 O ser humano e realmente insatisfeito com sua natureza...
 
@@ -218,7 +217,7 @@ E se fossemos gatos? Hmmm...
 Os gatos sempre parecem estar de boa, dormem a maior parte do dia,
 acordam para comer, beber água, ir ao banheiro e caçar ocasionalmente.
 
-Eles são extremos: Curiosos com o mundo ao seu redor ou estão pouco se fodendo.
+Eles são extremos: Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
 O que importa e que para eles o mundo está bom, sempre está bom!
 
 Eles não se importam com quem são, onde estão, quem está com eles. 
@@ -230,7 +229,7 @@ com os humanos sem realizar nenhuma tarefa.
 Eles não são nossos, nos que somos deles.
 
 Se der sorte e eles gostarem de você, ganhou uma companhia.
-Se não der sorte eles se vao.
+Se não der sorte eles se vão.
 
 Gatos não tem a necessidade de contarem histórias sobre si mesmos,
 Não possuem filosofia, religião, moral ou ética. E nem precisam
