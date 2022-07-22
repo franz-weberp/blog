@@ -83,7 +83,6 @@ params:
 
     widgets:
         homepage: []
-        page: []
         
     defaultImage:
         opengraph:
