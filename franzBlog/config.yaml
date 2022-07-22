@@ -138,7 +138,7 @@ params:
             id:
     widgets:
         page:
-            - type: none
+            - type: toc
 
     defaultImage:
         opengraph:
