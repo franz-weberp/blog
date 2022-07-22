@@ -13,13 +13,13 @@ image = "cover-primeiro.png"
 
 +++
 
-Cachorro... Gato... Passarinho... Golfinho... Largatos...
-Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
+Cachorro... Gato... Passarinho... Golfinho... Largato...
+Fazia muito tempo não me faziam essa pergunta.
 
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
 na maioria das vezes pensava: 
 
-> "Ué, vou apenas de falar gato e você vai se contentar com a resposta, ou no máximo me perguntar o porquê, ou falar qual é o seu e nada mais. Você não quer que eu reflita profundamente sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? Jogar conversa fora? Matar tempo? Criar conexões? Tentar me conhecer?"
+> "Ué, vou apenas de falar gato e você vai se contentar com a resposta, ou no máximo me perguntar o porquê, ou falar qual é o seu e nada mais. Você não quer que eu reflita profundamente sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? Jogar conversa fora? Matar tempo? Criar conexão? Tentar me conhecer?"
 
 Se você nunca conversou comigo talvez você não saiba, se você apenas bateu-papo comigo talvez você não saiba.
 Se me conhece apenas de vista ou me viu apenas observando uma conversa, então provavelmente você não saiba.
@@ -82,7 +82,8 @@ Hmmm... E se fossemos gatos?
 ## O ser humano é realmente insatisfeito com sua natureza...
 
     Se tentamos explicar algo para alguém e falhamos 
-    Nos sentimos frustrados,
+    Nos sentimos frustrados.
+
     Nos esforçamos mais,
     E mais e nos cansamos.
 
@@ -103,8 +104,7 @@ ou pelo menos entendível para outros.
 
 Como humanos utilizamos muitos artifícios para nos comunicarmos com nossos semelhantes,
 precisamos que os outros nos entendam, precisamos de um significado, precisamos nos sentir
-pertencentes, somos obcecados por histórias, ao ponto de vivermos nossas vidas baseados em
-histórias que contamos sobre nós mesmos na nossa mente. O ser humano é bizarro.
+pertencentes, somos obcecados por histórias, ao ponto de vivermos nossas vidas baseadas em histórias que contamos sobre nós mesmos na nossa mente. O ser humano é bizarro.
 
 Kkkkkk, eu realmente gostaria que a nossa natureza fosse mais simples.
 Não consigo resumir o que eu penso sobre os humanos em nossa humanidade em um parágrafo de poucas linhas.
@@ -112,16 +112,25 @@ Mas se você leu até aqui já entendeu um pouco disso sobre mim, então vou ela
 
 ### E se fossemos gatos? Hmmm...
 
-Teríamos começado a 12.000 anos atrás nos aproximando das fazendas dos humanos,
-onde podíamos comer uns ratos que se juntavam e que comiam as plantações dos humanos. 
-E os humanos iriam ficar felizes, afinal teriam suas plantações inteiras, e provavelmente gostariam da gente.
-Talvez até nos dessem um pouco da comida deles, assim a gente ficaria mais tempo por lá,
-para que quando surgisse mais ratos acabássemos com eles.
+    Teríamos começado a 12.000 anos atrás
+    Nos aproximando das fazendas dos humanos,
+    Onde podíamos comer uns ratos que se juntavam
+    E que comiam as plantações dos humanos.
+
+    E os humanos iriam ficar felizes, 
+    Afinal teriam suas plantações inteiras,
+    E provavelmente gostariam da gente.
+
+    Talvez até nos dessem um pouco da comida deles, 
+    Assim ficariamos mais tempo por lá,
+    Para que quando surgisse mais ratos,
+    Acabássemos com eles.
 
 É isso! Acabou! Simples assim, não vou continuar narrando isso. Quer merda hein?! 
-Achou que teria uma mega aula de história de como surgiu a relação humanidade e gatos.
-Bom, eu te avisei alguns parágrafos atrás que somos obcecados com histórias, que elas precisam fazer sentido para
-que possamos viver tranquilos, COMECO...MEIO...FIM.
+Achou que teria uma mega aula de história de como surgiu a relação humanidade e gatos?
+Bom, eu te avisei alguns parágrafos atrás que somos obcecados com histórias, que elas precisam fazer sentido para que possamos viver tranquilos.
+
+COMECO...MEIO...FIM.
 
 Estamos constantemente atrás de `consistência` para as narrativas de nossas histórias. Precisamos constantemente
 reafirmarmos essa história para que nós possamos nos sentir bem.
@@ -130,16 +139,16 @@ reafirmarmos essa história para que nós possamos nos sentir bem.
 > - Consistência: 'Que tende a ser firme, rígido ou duro.'
 > - Consistência: 'Estado do que é coerente, verdadeiro e real'
 
-Eu não gosto muito de `sinônimos` e `antônimos` de palavras pois não me parece fazer muito sentido em muitos casos, 
-afinal tudo na vida depende. Foda, sempre volto nisso 😩😩, mas vamos deixar isso de lado por enquanto.
+Eu não gosto muito de `sinônimos` e `antônimos` de palavras pois não me parece fazer muito sentido em muitos casos, afinal tudo na vida depende. 
+
+> Foda, sempre volto nisso 😩😩, mas vamos deixar isso de lado por enquanto.
+
 No caso de consistências narrativas acredito que `lógica` se encaixaria como sinônimo.
 
 
 ### Lógica
-Usando meu exemplo de seres humanos bons em apelar para a nossa lógica os 
-Filósofos são excelentes em criar consistência narrativa,
-já que eles utilizam de sua sabedoria para criar uma lógica e 
-atingir uma consistência na sua narrativa, que seria a busca pelo saber. 
+Usando meu exemplo de seres humanos bons em apelar para a nossa lógica: os 
+Filósofos são excelentes em criar consistência narrativa, já que eles utilizam de sua sabedoria para criar uma lógica e atingir uma consistência na sua narrativa, que seria a busca pelo saber. 
 
 Você pode achar que estou forçando, e pode até ser, 
 mas se pensar no método socrático, nem estou forçando tanto assim 
@@ -204,25 +213,21 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
     E caçam ocasionalmente.
 
     Eles são extremos.
-    Ou estão curiosos com o mundo ao seu redor
+    Estão curiosos com o mundo ao seu redor
     Ou estão pouco se fodendo.
     O que importa é que para eles o mundo está bom,
     Sempre está bom!
 
     Eles não se importam com quem são,
-    Onde estão,
-    Quem está com eles. 
+    Onde estão, ou se alguém os acompanham na ocasião. 
 
-    Se os humanos dão comida, 
-    Eles comem,
-    Se não, 
-    Eles caçam.
+    Se os humanos dão comida, eles comem!
+    Se não, eles caçam.
 
     Eles sempre estão bem com eles mesmos,
-    Se precisar eles cooperam, 
-    Mas em geral não.
-    Eles nunca foram verdadeiramente domesticados.
+    Se precisar eles cooperam, mas em geral não.
 
+    Eles nunca foram verdadeiramente domesticados.
     Eles são os únicos animais que vivem com os humanos sem realizar nenhuma tarefa.
 
     Eles não são nossos,
@@ -231,8 +236,7 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
     Se der sorte e eles gostarem de você, 
     Ganhou uma companhia.
 
-    Se não der sorte,
-    Eles se vão.
+    Se não der sorte, eles se vão.
 
     Gatos não tem a necessidade de contarem histórias sobre si mesmos.
     Não possuem filosofia, religião, moral ou ética.
@@ -257,4 +261,6 @@ Podemos apenas aprender algumas lições com os gatos:
 
 ---
 
-Esse texto serve apenas para expressar uma opinião minha sobre os gatos. Eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consiga vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. Então para quem queira saber essa é minha opinião.
+Esse texto serve apenas para expressar uma opinião minha sobre os gatos. Eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consiga vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. 
+
+Então para quem queira saber essa é minha opinião.
