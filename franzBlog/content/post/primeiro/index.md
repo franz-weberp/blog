@@ -58,6 +58,8 @@ Não tem como te explicar melhor do que isso sem me entender.
 Eu gosto de gato porque eles são legais e não dão muito trabalho, 
 tchau...
 
+---
+
 Mas se quiser podemos conversar, eu escrevo aqui o que eu penso e você lê daí, tira suas
 conclusões baseadas no que você sente.
 
@@ -205,33 +207,48 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
 ## Os gatos
 E se fossemos gatos? Hmmm...
 
-    Os gatos sempre parecem estar de boa, dormem a maior parte do dia,
-    acordam para comer, beber água, ir ao banheiro e caçar ocasionalmente.
+    Os gatos sempre parecem estar de boa,
+    dormem a maior parte do dia,
+    acordam para comer, 
+    beber água, 
+    ir ao banheiro e caçar ocasionalmente.
 
-    Eles são extremos: Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
-    O que importa é que para eles o mundo está bom, sempre está bom!
+    Eles são extremos.
+    Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
+    O que importa é que para eles o mundo está bom,
+    sempre está bom!
 
-    Eles não se importam com quem são, onde estão, quem está com eles. 
-    Se os humanos dão comida, eles comem, se não, eles caçam.
+    Eles não se importam com quem são,
+    onde estão,
+    quem está com eles. 
+    Se os humanos dão comida, eles comem,
+    se não, eles caçam.
 
-    Eles sempre estão bem com eles mesmos, se precisar eles cooperam, mas em geral não.
-    Eles nunca foram verdadeiramente domesticados, eles são os únicos animais que vivem
-    com os humanos sem realizar nenhuma tarefa.
-    Eles não são nossos, nós que somos deles.
+    Eles sempre estão bem com eles mesmos,
+    se precisar eles cooperam, mas em geral não.
+    Eles nunca foram verdadeiramente domesticados,
+    eles são os únicos animais que vivem com os humanos sem realizar nenhuma tarefa.
+    Eles não são nossos,
+    nós que somos deles.
 
-    Se der sorte e eles gostarem de você, ganhou uma companhia.
-    Se não der sorte eles se vão.
+    Se der sorte e eles gostarem de você,
+    ganhou uma companhia.
+    Se não der sorte,
+    eles se vão.
 
     Gatos não tem a necessidade de contarem histórias sobre si mesmos,
-    não possuem filosofia, religião, moral ou ética. E nem precisam
+    não possuem filosofia, religião, moral ou ética.
+    E nem precisam
 
-    Para eles não existe o certo ou o errado, eles apenas seguem sua natureza.
+    Para eles não existe o certo ou o errado,
+    eles apenas seguem sua natureza.
     Sua ética vem de sua natureza e não suas ideias,
     Podem ser corajosos, provedores e protetores dos mais jovens.
 
     Mas caso achem necessário fogem para sobreviver e nem pensam mais na questão.
     Mas não deveríamos tentar ser como os gatos, 
-    Pois somos humanos com nossas histórias, manias, filosofias e religiões.
+    Pois somos humanos com nossas
+    histórias, manias, filosofias e religiões.
 
 Podemos apenas aprender algumas lições:
 
