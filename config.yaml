@@ -29,7 +29,7 @@ params:
 
     article:
         math: false
-        toc: true
+        toc: false
         readingTime: true
         license:
             enabled: false
@@ -37,32 +37,6 @@ params:
 
     comments:
         enabled: false
-        provider: disqus
-
-        disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
-            admin:
-            adminLabel:
-
-        utterances:
-            repo:
-            issueTerm: pathname
-            label:
-
-        remark42:
-            host:
-            site:
-            locale:
-
-        vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-            autoCreateIssue: false
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
@@ -70,8 +44,6 @@ params:
             lang:
             visitor:
             avatar:
-            emoji:
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
             requiredMeta:
                 - name
                 - email
@@ -112,15 +84,7 @@ params:
     widgets:
         homepage: []
         page: []
-
-    opengraph:
-        twitter:
-            # Your Twitter username
-            site:
-
-            # Available values: summary, summary_large_image
-            card: summary_large_image
-
+        
     defaultImage:
         opengraph:
             enabled: false
