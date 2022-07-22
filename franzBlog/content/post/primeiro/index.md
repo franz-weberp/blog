@@ -2,7 +2,7 @@
 author = "Franz Weber Pimentel"
 title = "Qual é o seu animal favorito?"
 date = "2022-07-21"
-lastUpdated: "2022-07-22"
+lastmod = "2022-07-22"
 description = "Uma pergunta que pode render assunto para um dia inteiro de conversa"
 tags = [
     "devaneios"
