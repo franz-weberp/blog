@@ -13,7 +13,7 @@ image = "cover-primeiro.png"
 
 +++
 
-Qual é o seu animal favorito? Cachorro... Gato... Passarinho... Peixe...
+Cachorro... Gato... Passarinho... Aves... Peixe...
 Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
 
 ---
@@ -35,6 +35,8 @@ para que em seguida encontrar argumentos que invalide meus argumentos anteriores
 até que eu consiga chegar ao ponto de apenas assumir, que depende... depende quem está me perguntando... 
 depende da situação em que me perguntam... afinal, na vida tudo depende de algo para fazer <code>Sentido</code>.
 
+<br>
+
 ### Sentido...
 Uma palavra bem estranha.
 * Pode ser um substantivo: 'Significado de uma palavra'
@@ -52,17 +54,14 @@ algo que depende, algo que para ter <code>Sentido</code>, precisa ser <code>Sent
 e ainda mais, precisa ser <code>Sentido</code> por mim, sendo que sentimos de formas diferentes, 
 afinal somos pessoas diferentes.
 
-* Suspiro * :Emoji Suspiro:
+😮‍💨
 
 Se você não quer pensar sobre isso ou está sem tempo e isso que tenho para te dizer.
 Não tem como te explicar melhor do que isso sem me entender. 
 Eu gosto de gato porque eles são legais e não dão muito trabalho, 
 tchau...
 
-
-
-
-
+<br>
 
 Mas se quiser podemos conversar, eu escrevo aqui o que eu penso e você lê daí, tira suas
 conclusões baseadas no que você sente.
@@ -78,10 +77,12 @@ Podemos tentar utilizar da nossa empatia para sentirmos aquilo que outros sentem
 e então entender o mundo que eles veem. Mas será que estamos falando sobre as mesmas coisas?
 será que estamos <code>Sentido</code> as mesmas coisas?
 
-Esse texto está muito complicado :Emoji Cansando:...
+Esse texto está muito complicado 😩😩😩...
 
 Se fossemos gatos tudo seria mais fácil!
 Hmmm... E se fossemos gatos?
+
+<br>
 
 ## A insatisfação do ser humano com sua natureza
 O ser humano e realmente insatisfeito com sua natureza...
@@ -111,6 +112,8 @@ Mas se você leu até aqui já entendeu um pouco disso sobre mim, então vou ela
 
 E se fossemos gatos? Hmmm...
 
+<br>
+
 ### Narrativa
 Teríamos começado a 12.000 anos atras nos aproximando das fazendas dos humanos,
 onde podíamos comer uns ratos que se juntavam e que comiam as plantações dos humanos. 
@@ -126,14 +129,18 @@ que possamos viver tranquilos, COMECO...MEIO...FIM.
 Estamos constantemente atras de <code>Consistência</code> para as narrativas de nossas histórias. Precisamos constantemente
 reafirmarmos essa história para que nós possamos nos sentir bem.
 
+<br>
+
 ### Consistência
 <code>Consistência</code> parece ser algo importante nesse lance todo.
 - <code>Consistência</code>: 'Que tende a ser firme, rígido ou duro.'
 - <code>Consistência</code>: 'Estado do que é coerente, verdadeiro e real'
 
 Eu não gosto muito de <code>Sinônimos</code> e <code>Antônimos</code> de palavras pois não me parece fazer muito <code>Sentido</code> em muitos casos, 
-afinal tudo na vida depende. Foda, sempre volto nisso :Emoji Cansado:, mas vamos deixar isso de lado por enquanto.
+afinal tudo na vida depende. Foda, sempre volto nisso 😩😩, mas vamos deixar isso de lado por enquanto.
 No caso de <code>Consistências</code> narrativas acredito que <code>Lógica</code> se encaixaria como sinônimo.
+
+<br>
 
 ### Logica
 Usando meu exemplo de seres humanos bons em apelar para a nossa <code>Lógica</code> os 
@@ -154,11 +161,11 @@ revelar as contradições presentes na atual forma de pensar do aluno'.
 E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a <code>Lógica</code>
 mais ampla, rigorosa e sistematizada no ocidente (Sim eu lembro dessas paradas pelo simples fato
 que eu argumento comigo mesmo frequentemente como disse lá no começo do texto, já disse, o ser humano
-e sua mania de querer tornar suas histórias consistentes :Emoji Risada:)
+e sua mania de querer tornar suas histórias consistentes 😅😅
 
 Beleza cobrimos a parte da <code>Consistência</code> das narrativas das nossas histórias utilizando a Logica,
 conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na Logica
-não temos <code>Consistência</code>, porque, se não tivermos <code>Lógica</code>, logo não teremos <code>Consistência</code> :Emoji Cansado:
+não temos <code>Consistência</code>, porque, se não tivermos <code>Lógica</code>, logo não teremos <code>Consistência</code> 😩
 
 E agora? Não podemos nos apoiar na Logica para darmos <code>Consistência</code> as nossas narrativas e atingimos
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
@@ -169,6 +176,8 @@ podemos utilizar os Religiosos como fonte de explicação para as nossas histór
 a religião. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos
 definir algumas coisas.
 
+Logica
+
 ### Religião
 #### O que seria a Religião (Hora do Wikipedia):
 >'A religião é geralmente definida como um sistema sociocultural de comportamentos e práticas, moralidades, crenças, visões de mundo, textos considerados sagrados, lugares santificados, profecias, ética ou organizações, que geralmente relacionam a humanidade com elementos sobrenaturais, transcendentais e espirituais; no entanto, não há consenso acadêmico sobre o que precisamente constitui uma religião...'
@@ -178,6 +187,8 @@ definir algumas coisas.
 
 <code>Consistências</code>, <code>Consistências</code> e <code>Consistências</code>. Ótimo! Dessa forma podemos seguir dando 
 <code>Consistência</code> para as nossas narrativas hora utilizando a Logica, hora utilizando a Religião.
+
+<br>
 
 ### O ser humano
 So para relembramos algumas coisas então:
@@ -198,6 +209,8 @@ que viram o mesmo ambiente durante horas e horas do seu dia,
 e que em menos de 1 ano já não aguentavam a mesma rotina,
 que tipo de animal, que supostamente está no topo da cadeia alimentar,
 fica doente porque não sai para dar um passeio? O ser humano e bizarro.
+
+<br>
 
 ## Os gatos
 E se fossemos gatos? Hmmm...
