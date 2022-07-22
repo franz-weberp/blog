@@ -84,15 +84,7 @@ params:
     widgets:
         homepage: []
         page: []
-
-    opengraph:
-        twitter:
-            # Your Twitter username
-            site:
-
-            # Available values: summary, summary_large_image
-            card: summary_large_image
-
+        
     defaultImage:
         opengraph:
             enabled: false
