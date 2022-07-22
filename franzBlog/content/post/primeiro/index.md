@@ -132,15 +132,15 @@ reafirmarmos essa história para que nós possamos nos sentir bem.
 
 ### Consistência
 `Consistência` parece ser algo importante nesse lance todo.
-- `Consistência`: 'Que tende a ser firme, rígido ou duro.'
-- `Consistência`: 'Estado do que é coerente, verdadeiro e real'
+> - `Consistência`: 'Que tende a ser firme, rígido ou duro.'
+> - `Consistência`: 'Estado do que é coerente, verdadeiro e real'
 
 Eu não gosto muito de `sinônimos` e `antônimos` de palavras pois não me parece fazer muito `sentido` em muitos casos, 
 afinal tudo na vida depende. Foda, sempre volto nisso 😩😩, mas vamos deixar isso de lado por enquanto.
 No caso de `consistências` narrativas acredito que `lógica` se encaixaria como sinônimo.
 
 
-### Logica
+### Lógica
 Usando meu exemplo de seres humanos bons em apelar para a nossa `lógica` os 
 Filósofos são excelentes em criar `consistência` narrativa,
 já que eles utilizam de sua sabedoria para criar uma `lógica` e 
@@ -161,15 +161,15 @@ mais ampla, rigorosa e sistematizada no ocidente (Sim eu lembro dessas paradas p
 que eu argumento comigo mesmo frequentemente como disse lá no começo do texto, já disse, o ser humano
 e sua mania de querer tornar suas histórias consistentes 😅😅
 
-Beleza cobrimos a parte da `consistência` das narrativas das nossas histórias utilizando a Lógica,
-conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na Lógica
+Beleza cobrimos a parte da `consistência` das narrativas das nossas histórias utilizando a `lógica`,
+conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na `lógica`
 não temos `consistência`, porque, se não tivermos `lógica`, logo não teremos `consistência` 😩
 
 E agora? Não podemos nos apoiar na Lógica para darmos `consistência` as nossas narrativas e atingimos
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
 que precisamos de um verdadeiro 'Deus Ex Machina'. E isso, precisamos da ajuda de Deus.
 
-Dentro dos nossos 7 Paladinos da humanidade quando o assunto e se expressar sem utilizar a Lógica
+Dentro dos nossos 7 Paladinos da humanidade quando o assunto e se expressar sem utilizar a `lógica`
 podemos utilizar os Religiosos como fonte de explicação para as nossas histórias, ou melhor dizendo,
 a religião. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos
 definir algumas coisas.
@@ -186,11 +186,11 @@ definir algumas coisas.
 `consistência` para as nossas narrativas hora utilizando a Lógica, hora utilizando a Religião.
 
 ## O ser humano
-So para relembramos algumas coisas então:
-1. O ser humano e insatisfeito com sua natureza;
-2. Somos obcecados com Histórias (inclusive as nossas);
-3. Para termos boas Histórias precisamos de uma Narrativa que seja Consistente;
-4. Para garantirmos nossa `consistência` temos dois sistemas: Lógica e Esperança;
+Só para relembramos algumas coisas então:
+1. O ser humano é insatisfeito com sua natureza;
+2. Somos obcecados com `histórias` (inclusive as nossas);
+3. Para termos boas `histórias` precisamos de uma Narrativa que seja Consistente;
+4. Para garantirmos nossa `consistência` temos dois sistemas: `lógica` e Esperança;
 
 O ser humano e realmente insatisfeito com sua natureza...
 
@@ -212,7 +212,7 @@ Os gatos sempre parecem estar de boa, dormem a maior parte do dia,
 acordam para comer, beber água, ir ao banheiro e caçar ocasionalmente.
 
 Eles são extremos: Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
-O que importa e que para eles o mundo está bom, sempre está bom!
+O que importa é que para eles o mundo está bom, sempre está bom!
 
 Eles não se importam com quem são, onde estão, quem está com eles. 
 Se os humanos dão comida, eles comem, se não, eles caçam.
@@ -220,26 +220,33 @@ Se os humanos dão comida, eles comem, se não, eles caçam.
 Eles sempre estão bem com eles mesmos, se precisar eles cooperam, mas em geral não.
 Eles nunca foram verdadeiramente domesticados, eles são os únicos animais que vivem
 com os humanos sem realizar nenhuma tarefa.
-Eles não são nossos, nos que somos deles.
+Eles não são nossos, nós que somos deles.
 
 Se der sorte e eles gostarem de você, ganhou uma companhia.
 Se não der sorte eles se vão.
 
 Gatos não tem a necessidade de contarem histórias sobre si mesmos,
-Não possuem filosofia, religião, moral ou ética. E nem precisam
+
+não possuem filosofia, religião, moral ou ética. E nem precisam
+
 Para eles não existe o certo ou o errado, eles apenas seguem sua natureza.
 
 Sua ética vem de sua natureza e não suas ideias,
+
 Podem ser corajosos, provedores e protetores dos mais jovens.
+
 Mas caso achem necessário fogem para sobreviver e nem pensam mais na questão.
 
 Mas não deveríamos tentar ser como os gatos, 
+
 Pois somos humanos com nossas histórias, manias, filosofias e religiões.
+
 Podemos apenas aprender algumas lições:
 
-* Esqueça de procurar a felicidade, afinal não sabemos o que ela e. Sendo curioso talvez você a encontre;
-* Procure viver o momento, afinal e o que temos;
-* E por último não leve tão a sério essas lições;
+> * Esqueça de procurar a felicidade, afinal não sabemos o que ela e. Sendo curioso talvez você a encontre;
+> * Procure viver o momento, afinal e o que temos;
+> * E por último não leve tão a sério essas lições;
 
+---
 
-Esse texto serve apenas para expressão uma opinião minha sobre os gatos, mas eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consigo vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. Então para quem queira saber essa e minha opinião.
+Esse texto serve apenas para expressão uma opinião minha sobre os gatos, mas eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consiga vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. Então para quem queira saber essa é minha opinião.
