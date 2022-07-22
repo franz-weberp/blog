@@ -46,8 +46,9 @@ afinal somos pessoas diferentes.
 
 😮‍💨😮‍💨😮‍💨
 
-Se você não quer pensar sobre isso ou está sem tempo e isso que tenho para te dizer.
+Se você não quer pensar sobre isso ou está sem tempo... é isso que tenho para te dizer.
 Não tem como te explicar melhor do que isso sem me entender. 
+
 Eu gosto de gato porque eles são legais e não dão muito trabalho, 
 tchau...
 
@@ -57,17 +58,17 @@ Mas se quiser podemos conversar, eu escrevo aqui o que eu penso e você lê daí
 conclusões baseadas no que você sente.
 
 O fato de termos pensamentos e ideias é algo complicado para o ser humano, apesar de fazer parte da nossa natureza.
-> Escrevendo esse trecho parei algumas vezes porque não estava mais lembrando das minhas intenções com esse texto.
+> "Escrevendo esse trecho parei algumas vezes porque não estava mais lembrando das minhas intenções com esse texto."
 
     O fato de termos ideias e pensamentos não as explica
     Não explica como vemos o mundo.
-    Não nos permite nos comunicarmos com nossos semelhantes de forma precisa.\
+    Não nos permite nos comunicarmos com nossos semelhantes de forma precisa.
     
     Afinal depende.
     E depende de como sentimos... 
 
     Podemos tentar utilizar da nossa empatia para sentirmos aquilo que outros sentem
-e então entender o mundo que eles veem. 
+    E então entender o mundo que eles veem. 
     Mas será que estamos falando sobre as mesmas coisas?
     Será que estamos sentindo as mesmas coisas?
 
@@ -82,7 +83,7 @@ Hmmm... E se fossemos gatos?
 
     Se tentamos explicar algo para alguém e falhamos 
     Nos sentimos frustrados,
-    Nos esforçamos mais 
+    Nos esforçamos mais,
     E mais e nos cansamos.
 
     Tentamos novamente
@@ -109,11 +110,8 @@ Kkkkkk, eu realmente gostaria que a nossa natureza fosse mais simples.
 Não consigo resumir o que eu penso sobre os humanos em nossa humanidade em um parágrafo de poucas linhas.
 Mas se você leu até aqui já entendeu um pouco disso sobre mim, então vou elaborar melhor.
 
-E se fossemos gatos? Hmmm...
+### E se fossemos gatos? Hmmm...
 
-<br>
-
-### Narrativa
 Teríamos começado a 12.000 anos atrás nos aproximando das fazendas dos humanos,
 onde podíamos comer uns ratos que se juntavam e que comiam as plantações dos humanos. 
 E os humanos iriam ficar felizes, afinal teriam suas plantações inteiras, e provavelmente gostariam da gente.
@@ -143,8 +141,8 @@ Filósofos são excelentes em criar consistência narrativa,
 já que eles utilizam de sua sabedoria para criar uma lógica e 
 atingir uma consistência na sua narrativa, que seria a busca pelo saber. 
 
-Você pode achar que estou forcando, e pode até ser, 
-mas se pensar no método socrático, nem estou forcando tanto assim 
+Você pode achar que estou forçando, e pode até ser, 
+mas se pensar no método socrático, nem estou forçando tanto assim 
 e para facilitar seu trabalho copiei um trecho da Wikipédia,
 sobre o método socrático para resumir o que quero dizer:
 
@@ -157,13 +155,13 @@ E se ainda não acredita em mim Aristóteles é um dos principais responsáveis 
 mais ampla, rigorosa e sistematizada no ocidente (Eu lembro dessas paradas para ficar argumentando comigo mesmo, já disse, o ser humano
 e sua mania de querer tornar suas histórias consistentes 😅😅)
 
-Beleza cobrimos a parte da consistência das narrativas das nossas histórias utilizando a lógica,
+Beleza, cobrimos a parte da consistência das narrativas das nossas histórias utilizando a lógica,
 conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na lógica
 não temos consistência, porque, se não tivermos lógica, logo não teremos consistência 😩
 
-E agora? Não podemos nos apoiar na Lógica para darmos consistência as nossas narrativas e atingimos
+E agora? Não podemos nos apoiar apenas na Lógica para darmos consistência as nossas narrativas e atingimos
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
-que precisamos de um verdadeiro 'Deus Ex Machina'. E isso, precisamos da ajuda de Deus.
+que precisamos de um verdadeiro 'Deus Ex Machina'. É isso, precisamos da ajuda de Deus.
 
 Dentro dos nossos 7 paladinos da humanidade quando o assunto e se expressar sem utilizar a lógica podemos utilizar os Religiosos como fonte de explicação para as nossas histórias, ou melhor dizendo, a `religião`. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos definir algumas coisas.
 
@@ -179,9 +177,9 @@ consistência para as nossas narrativas hora utilizando a lógica, hora utilizan
 
 ## Só para relembramos algumas coisas então:
 > 1. O ser humano é insatisfeito com sua natureza;
-> 2. Somos obcecados com `histórias` (inclusive as nossas);
-> 3. Para termos boas `histórias` precisamos de uma Narrativa que seja `consistente`;
-> 4. Para garantirmos nossa `consistência` temos dois sistemas: `lógica` e `esperança`;
+> 2. Somos obcecados com histórias (inclusive as nossas);
+> 3. Para termos boas histórias precisamos de uma Narrativa que seja consistente;
+> 4. Para garantirmos nossa consistência temos dois sistemas: lógica e esperança;
 
 O ser humano é realmente insatisfeito com sua natureza...
 
@@ -214,11 +212,15 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
     Eles não se importam com quem são,
     Onde estão,
     Quem está com eles. 
-    Se os humanos dão comida, eles comem,
-    se não, eles caçam.
+
+    Se os humanos dão comida, 
+    Eles comem,
+    Se não, 
+    Eles caçam.
 
     Eles sempre estão bem com eles mesmos,
-    Se precisar eles cooperam, mas em geral não.
+    Se precisar eles cooperam, 
+    Mas em geral não.
     Eles nunca foram verdadeiramente domesticados.
 
     Eles são os únicos animais que vivem com os humanos sem realizar nenhuma tarefa.
@@ -226,29 +228,31 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
     Eles não são nossos,
     Nós que somos deles.
 
-    Se der sorte e eles gostarem de você, ganhou uma companhia.
+    Se der sorte e eles gostarem de você, 
+    Ganhou uma companhia.
 
     Se não der sorte,
     Eles se vão.
 
     Gatos não tem a necessidade de contarem histórias sobre si mesmos.
     Não possuem filosofia, religião, moral ou ética.
-    E nem precisam.
-
-    Para eles não existe o certo ou o errado,
+    Para eles não existe o certo e errado,
     Eles apenas seguem sua natureza.
+
     Sua ética vem de sua natureza e não suas ideias,
     Podem ser corajosos, provedores e protetores dos mais jovens.
 
-    Mas caso achem necessário fogem para sobreviver e nem pensam mais na questão.
+    Mas caso achem necessário fogem para sobreviver
+    E nem pensam mais na questão.
+
     Mas não deveríamos tentar ser como os gatos, 
     Pois somos humanos com nossas
-    histórias, manias, filosofias e religiões.
+    Histórias, Manias, Filosofias e Religiões.
 
-Podemos apenas aprender algumas lições:
+Podemos apenas aprender algumas lições com os gatos:
 
-> * Esqueça de procurar a felicidade, afinal não sabemos o que ela e. Sendo curioso talvez você a encontre;
-> * Procure viver o momento, afinal e o que temos;
+> * Esqueça de procurar a felicidade, afinal não sabemos o que ela é. Sendo curioso talvez você a encontre;
+> * Procure viver o momento, afinal é o que temos;
 > * E por último não leve tão a sério essas lições;
 
 ---
