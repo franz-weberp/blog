@@ -16,6 +16,8 @@ image = "cover-primeiro.png"
 Qual é o seu animal favorito? Cachorro... Gato... Passarinho... Peixe...
 Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
 
+---
+
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
 na maioria das vezes pensava: 
 
@@ -31,24 +33,23 @@ Eu particularmente não gosto de expressar as minhas opiniões em uma mesa de ba
 Gosto de passar horas pensando sobre um assunto, encontrando argumentos para defender o que penso,
 para que em seguida encontrar argumentos que invalide meus argumentos anteriores, seguindo nessa sucessão,
 até que eu consiga chegar ao ponto de apenas assumir, que depende... depende quem está me perguntando... 
-depende da situação em que me perguntam... afinal, na vida tudo depende de algo para fazer sentido.
+depende da situação em que me perguntam... afinal, na vida tudo depende de algo para fazer <code>Sentido</code>.
 
-Sentido...
-
+### Sentido...
 Uma palavra bem estranha.
-Pode ser um substantivo: 'Significado de uma palavra'
-Pode ser um adjetivo: 'Ofendido com facilidade, ressentido, comportamento sem sentido'
-Pode ser uma interjeição: 'Expressão de atenção ou cuidado'
+* Pode ser um substantivo: 'Significado de uma palavra'
+* Pode ser um adjetivo: 'Ofendido com facilidade, res<code>Sentido</code>, comportamento sem <code>Sentido</code>'
+* Pode ser uma interjeição: 'Expressão de atenção ou cuidado'
 * Particípio de sentir
 
 Vou tentar resumir minha admiração por essa palavra pegando emprestando a frase que escrevi a pouco:
-'na vida tudo depende de algo para fazer sentido', ou seja, seria o mesmo que dizer que
+'na vida tudo depende de algo para fazer <code>Sentido</code>', ou seja, seria o mesmo que dizer que
 A vida depende de sentir.
 
 Mas agora eu tenho um problema e um bem complicado. 
 Como que caralhos eu vou explicar para você algo que eu penso,
-algo que depende, algo que para ter sentido, precisa ser sentido? 
-e ainda mais, precisa ser sentido por mim, sendo que sentimos de formas diferentes, 
+algo que depende, algo que para ter <code>Sentido</code>, precisa ser <code>Sentido</code>? 
+e ainda mais, precisa ser <code>Sentido</code> por mim, sendo que sentimos de formas diferentes, 
 afinal somos pessoas diferentes.
 
 * Suspiro * :Emoji Suspiro:
@@ -75,14 +76,14 @@ E depende de como sentimos...
 
 Podemos tentar utilizar da nossa empatia para sentirmos aquilo que outros sentem
 e então entender o mundo que eles veem. Mas será que estamos falando sobre as mesmas coisas?
-será que estamos sentido as mesmas coisas?
+será que estamos <code>Sentido</code> as mesmas coisas?
 
 Esse texto está muito complicado :Emoji Cansando:...
 
 Se fossemos gatos tudo seria mais fácil!
 Hmmm... E se fossemos gatos?
 
-<< A insatisfação do ser humano com sua natureza >>
+## A insatisfação do ser humano com sua natureza
 O ser humano e realmente insatisfeito com sua natureza...
 Se tentamos explicar algo para alguém e falhamos nos sentimos frustrados,
 nos esforçamos mais e mais e nos cansamos.
@@ -91,13 +92,13 @@ Tentamos novamente e falhamos, mas alguns de nós são excepcionalmente
 bons em pôr essas ideias que temos em prática para serem entendidas, 
 ou pelo menos entendível para outros.
 
-Aqueles que conseguem apelar para os nossos olhos: Pintores
-Aqueles que conseguem apelar para os nossos ouvidos: Músicos
-Aqueles que conseguem apelar para o nosso olfato: Perfumistas
-Aqueles que conseguem apelar para o nosso paladar: Cozinheiros
-Aqueles que conseguem apelar para o nosso coração: Poetas
-Aqueles que conseguem apelar para a nossa lógica: Filósofos
-Aqueles que conseguem apelar para a nossa esperança: Religiosos
+* Aqueles que conseguem apelar para os nossos olhos: Pintores
+* Aqueles que conseguem apelar para os nossos ouvidos: Músicos
+* Aqueles que conseguem apelar para o nosso olfato: Perfumistas
+* Aqueles que conseguem apelar para o nosso paladar: Cozinheiros
+* Aqueles que conseguem apelar para o nosso coração: Poetas
+* Aqueles que conseguem apelar para a nossa <code>Lógica</code>: Filósofos
+* Aqueles que conseguem apelar para a nossa esperança: Religiosos
 
 Como humanos utilizamos muitos artifícios para nos comunicarmos com nossos semelhantes,
 precisamos que os outros nos entendam, precisamos de um significado, precisamos nos sentir
@@ -110,7 +111,7 @@ Mas se você leu até aqui já entendeu um pouco disso sobre mim, então vou ela
 
 E se fossemos gatos? Hmmm...
 
-<< Narrativa >>
+### Narrativa
 Teríamos começado a 12.000 anos atras nos aproximando das fazendas dos humanos,
 onde podíamos comer uns ratos que se juntavam e que comiam as plantações dos humanos. 
 E os humanos iriam ficar felizes, afinal teriam suas plantações inteiras e provavelmente gostaria da gente.
@@ -119,26 +120,26 @@ para quando surgisse mais ratos acabássemos com eles.
 
 E isso! Acabou! Simples assim, não vou continuar narrando isso. Quer merda hein?! 
 Achou que teria uma mega aula de história de como surgiu a relacao humanidade e gatos.
-Bom, eu te avisei 4 parágrafos atras que somos obcecados com histórias, que elas precisam fazer sentido para
+Bom, eu te avisei 4 parágrafos atras que somos obcecados com histórias, que elas precisam fazer <code>Sentido</code> para
 que possamos viver tranquilos, COMECO...MEIO...FIM.
 
-Estamos constantemente atras de consistência para as narrativas de nossas histórias. Precisamos constantemente
+Estamos constantemente atras de <code>Consistência</code> para as narrativas de nossas histórias. Precisamos constantemente
 reafirmarmos essa história para que nós possamos nos sentir bem.
 
-< Consistência >
-Consistência parece ser algo importante nesse lance todo.
-Consistência: 'Que tende a ser firme, rígido ou duro.'
-Consistência: 'Estado do que é coerente, verdadeiro e real'
+### Consistência
+<code>Consistência</code> parece ser algo importante nesse lance todo.
+- <code>Consistência</code>: 'Que tende a ser firme, rígido ou duro.'
+- <code>Consistência</code>: 'Estado do que é coerente, verdadeiro e real'
 
-Eu não gosto muito de Sinônimos e Antônimos de palavras pois não me parece fazer muito sentido em muitos casos, 
+Eu não gosto muito de <code>Sinônimos</code> e <code>Antônimos</code> de palavras pois não me parece fazer muito <code>Sentido</code> em muitos casos, 
 afinal tudo na vida depende. Foda, sempre volto nisso :Emoji Cansado:, mas vamos deixar isso de lado por enquanto.
-No caso de consistências narrativas acredito que Lógica se encaixaria como sinônimo.
+No caso de <code>Consistências</code> narrativas acredito que <code>Lógica</code> se encaixaria como sinônimo.
 
-- Logica -
-Usando meu exemplo de seres humanos bons em apelar para a nossa lógica os 
-Filósofos são excelentes em criar consistência narrativa,
-já que eles utilizam de sua sabedoria para criar uma lógica e 
-atingir uma consistência na sua narrativa, que seria a busca pelo saber. 
+### Logica
+Usando meu exemplo de seres humanos bons em apelar para a nossa <code>Lógica</code> os 
+Filósofos são excelentes em criar <code>Consistência</code> narrativa,
+já que eles utilizam de sua sabedoria para criar uma <code>Lógica</code> e 
+atingir uma <code>Consistência</code> na sua narrativa, que seria a busca pelo saber. 
 
 Você pode achar que estou forcando, e pode até ser, 
 mas se pensar no método socrático, nem estou forcando tanto assim 
@@ -150,16 +151,16 @@ que consiste em o professor conduzir o aluno a um processo de reflexão e descob
 Para isso, o professor faz uso de perguntas simples e quase ingênuas que têm por objetivo, em primeiro lugar, 
 revelar as contradições presentes na atual forma de pensar do aluno'.
 
-E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a Logica 
+E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a <code>Lógica</code>
 mais ampla, rigorosa e sistematizada no ocidente (Sim eu lembro dessas paradas pelo simples fato
 que eu argumento comigo mesmo frequentemente como disse lá no começo do texto, já disse, o ser humano
 e sua mania de querer tornar suas histórias consistentes :Emoji Risada:)
 
-Beleza cobrimos a parte da Consistência das narrativas das nossas histórias utilizando a Logica,
+Beleza cobrimos a parte da <code>Consistência</code> das narrativas das nossas histórias utilizando a Logica,
 conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na Logica
-não temos Consistência, porque, se não tivermos Lógica, logo não teremos Consistência :Emoji Cansado:
+não temos <code>Consistência</code>, porque, se não tivermos <code>Lógica</code>, logo não teremos <code>Consistência</code> :Emoji Cansado:
 
-E agora? Não podemos nos apoiar na Logica para darmos Consistência as nossas narrativas e atingimos
+E agora? Não podemos nos apoiar na Logica para darmos <code>Consistência</code> as nossas narrativas e atingimos
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
 que precisamos de um verdadeiro 'Deus Ex Machina'. E isso, precisamos da ajuda de Deus.
 
@@ -168,22 +169,22 @@ podemos utilizar os Religiosos como fonte de explicação para as nossas histór
 a religião. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos
 definir algumas coisas.
 
-- Religião -
-O que seria a Religião (Hora do Wikipedia):
-'A religião é geralmente definida como um sistema sociocultural de comportamentos e práticas, moralidades, crenças, visões de mundo, textos considerados sagrados, lugares santificados, profecias, ética ou organizações, que geralmente relacionam a humanidade com elementos sobrenaturais, transcendentais e espirituais; no entanto, não há consenso acadêmico sobre o que precisamente constitui uma religião...'
+### Religião
+#### O que seria a Religião (Hora do Wikipedia):
+>'A religião é geralmente definida como um sistema sociocultural de comportamentos e práticas, moralidades, crenças, visões de mundo, textos considerados sagrados, lugares santificados, profecias, ética ou organizações, que geralmente relacionam a humanidade com elementos sobrenaturais, transcendentais e espirituais; no entanto, não há consenso acadêmico sobre o que precisamente constitui uma religião...'
 
-e podemos também considerar que:
-'... Dentro do que se define como religião podem-se encontrar muitas crenças e filosofias diferentes. As diversas religiões do mundo são de facto muito diferentes entre si. Porém ainda assim é possível estabelecer uma característica em comum entre todas elas... As religiões costumam também possuir relatos sobre a origem do Universo, da Terra e do Homem, e o que acontece após a morte...'
+##### e podemos também considerar que:
+>'... Dentro do que se define como religião podem-se encontrar muitas crenças e filosofias diferentes. As diversas religiões do mundo são de facto muito diferentes entre si. Porém ainda assim é possível estabelecer uma característica em comum entre todas elas... As religiões costumam também possuir relatos sobre a origem do Universo, da Terra e do Homem, e o que acontece após a morte...'
 
-Consistências, Consistências e Consistências. Ótimo! Dessa forma podemos seguir dando 
-Consistência para as nossas narrativas hora utilizando a Logica, hora utilizando a Religião.
+<code>Consistências</code>, <code>Consistências</code> e <code>Consistências</code>. Ótimo! Dessa forma podemos seguir dando 
+<code>Consistência</code> para as nossas narrativas hora utilizando a Logica, hora utilizando a Religião.
 
-<< O ser humano >>
+### O ser humano
 So para relembramos algumas coisas então:
 1. O ser humano e insatisfeito com sua natureza;
 2. Somos obcecados com Histórias (inclusive as nossas);
 3. Para termos boas Histórias precisamos de uma Narrativa que seja Consistente;
-4. Para garantirmos nossa Consistência temos dois sistemas: Logica e Esperança;
+4. Para garantirmos nossa <code>Consistência</code> temos dois sistemas: Logica e Esperança;
 
 O ser humano e realmente insatisfeito com sua natureza...
 
@@ -198,7 +199,7 @@ e que em menos de 1 ano já não aguentavam a mesma rotina,
 que tipo de animal, que supostamente está no topo da cadeia alimentar,
 fica doente porque não sai para dar um passeio? O ser humano e bizarro.
 
-<< Os gatos >>
+## Os gatos
 E se fossemos gatos? Hmmm...
 
 Os gatos sempre parecem estar de boa, dormem a maior parte do dia,
@@ -230,9 +231,9 @@ Mas não deveríamos tentar ser como os gatos,
 Pois somos humanos com nossas histórias, manias, filosofias e religiões.
 Podemos apenas aprender algumas lições:
 
-- Esqueça de procurar a felicidade, afinal não sabemos o que ela e. Sendo curioso talvez você a encontre;
-- Procure viver o momento, afinal e o que temos;
-- E por último não leve tão a sério essas lições;
+* Esqueça de procurar a felicidade, afinal não sabemos o que ela e. Sendo curioso talvez você a encontre;
+* Procure viver o momento, afinal e o que temos;
+* E por último não leve tão a sério essas lições;
 
 
 Esse texto serve apenas para expressão uma opinião minha sobre os gatos, mas eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consigo vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. Então para quem queira saber essa e minha opinião.
