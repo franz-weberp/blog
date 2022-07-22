@@ -15,6 +15,7 @@ features = [
     "opengraph",
     "widgets",
     "darkmode",
+    "table of contents",
     "search",
 ]
 
