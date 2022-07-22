@@ -33,28 +33,28 @@ Eu particularmente não gosto de expressar as minhas opiniões em uma mesa de ba
 Gosto de passar horas pensando sobre um assunto, encontrando argumentos para defender o que penso,
 para que em seguida encontrar argumentos que invalide meus argumentos anteriores, seguindo nessa sucessão,
 até que eu consiga chegar ao ponto de apenas assumir, que depende... depende quem está me perguntando... 
-depende da situação em que me perguntam... afinal, na vida tudo depende de algo para fazer <code>Sentido</code>.
+depende da situação em que me perguntam... afinal, na vida tudo depende de algo para fazer `Sentido`.
 
 <br>
 
-### Sentido...
+## Sentido...
 Uma palavra bem estranha.
 * Pode ser um substantivo: 'Significado de uma palavra'
-* Pode ser um adjetivo: 'Ofendido com facilidade, res<code>Sentido</code>, comportamento sem <code>Sentido</code>'
+* Pode ser um adjetivo: 'Ofendido com facilidade, res`Sentido`, comportamento sem `Sentido`'
 * Pode ser uma interjeição: 'Expressão de atenção ou cuidado'
 * Particípio de sentir
 
 Vou tentar resumir minha admiração por essa palavra pegando emprestando a frase que escrevi a pouco:
-'na vida tudo depende de algo para fazer <code>Sentido</code>', ou seja, seria o mesmo que dizer que
+'na vida tudo depende de algo para fazer `Sentido`', ou seja, seria o mesmo que dizer que
 A vida depende de sentir.
 
 Mas agora eu tenho um problema e um bem complicado. 
 Como que caralhos eu vou explicar para você algo que eu penso,
-algo que depende, algo que para ter <code>Sentido</code>, precisa ser <code>Sentido</code>? 
-e ainda mais, precisa ser <code>Sentido</code> por mim, sendo que sentimos de formas diferentes, 
+algo que depende, algo que para ter `Sentido`, precisa ser `Sentido`? 
+e ainda mais, precisa ser `Sentido` por mim, sendo que sentimos de formas diferentes, 
 afinal somos pessoas diferentes.
 
-😮‍💨
+😮‍💨😮‍💨😮‍💨
 
 Se você não quer pensar sobre isso ou está sem tempo e isso que tenho para te dizer.
 Não tem como te explicar melhor do que isso sem me entender. 
@@ -75,9 +75,9 @@ E depende de como sentimos...
 
 Podemos tentar utilizar da nossa empatia para sentirmos aquilo que outros sentem
 e então entender o mundo que eles veem. Mas será que estamos falando sobre as mesmas coisas?
-será que estamos <code>Sentido</code> as mesmas coisas?
+será que estamos `Sentido` as mesmas coisas?
 
-Esse texto está muito complicado 😩😩😩...
+Esse texto está muito complicado 😩😩😩
 
 Se fossemos gatos tudo seria mais fácil!
 Hmmm... E se fossemos gatos?
@@ -93,13 +93,13 @@ Tentamos novamente e falhamos, mas alguns de nós são excepcionalmente
 bons em pôr essas ideias que temos em prática para serem entendidas, 
 ou pelo menos entendível para outros.
 
-* Aqueles que conseguem apelar para os nossos olhos: Pintores
-* Aqueles que conseguem apelar para os nossos ouvidos: Músicos
-* Aqueles que conseguem apelar para o nosso olfato: Perfumistas
-* Aqueles que conseguem apelar para o nosso paladar: Cozinheiros
-* Aqueles que conseguem apelar para o nosso coração: Poetas
-* Aqueles que conseguem apelar para a nossa <code>Lógica</code>: Filósofos
-* Aqueles que conseguem apelar para a nossa esperança: Religiosos
+* Aqueles que conseguem apelar para os nossos olhos: `Pintores`
+* Aqueles que conseguem apelar para os nossos ouvidos: `Músicos`
+* Aqueles que conseguem apelar para o nosso olfato: `Perfumistas`
+* Aqueles que conseguem apelar para o nosso paladar: `Cozinheiros`
+* Aqueles que conseguem apelar para o nosso coração: `Poetas`
+* Aqueles que conseguem apelar para a nossa lógica: `Filósofos`
+* Aqueles que conseguem apelar para a nossa esperança: `Religiosos`
 
 Como humanos utilizamos muitos artifícios para nos comunicarmos com nossos semelhantes,
 precisamos que os outros nos entendam, precisamos de um significado, precisamos nos sentir
@@ -123,30 +123,30 @@ para quando surgisse mais ratos acabássemos com eles.
 
 E isso! Acabou! Simples assim, não vou continuar narrando isso. Quer merda hein?! 
 Achou que teria uma mega aula de história de como surgiu a relacao humanidade e gatos.
-Bom, eu te avisei 4 parágrafos atras que somos obcecados com histórias, que elas precisam fazer <code>Sentido</code> para
+Bom, eu te avisei 4 parágrafos atras que somos obcecados com histórias, que elas precisam fazer `Sentido` para
 que possamos viver tranquilos, COMECO...MEIO...FIM.
 
-Estamos constantemente atras de <code>Consistência</code> para as narrativas de nossas histórias. Precisamos constantemente
+Estamos constantemente atras de `Consistência` para as narrativas de nossas histórias. Precisamos constantemente
 reafirmarmos essa história para que nós possamos nos sentir bem.
 
 <br>
 
 ### Consistência
-<code>Consistência</code> parece ser algo importante nesse lance todo.
-- <code>Consistência</code>: 'Que tende a ser firme, rígido ou duro.'
-- <code>Consistência</code>: 'Estado do que é coerente, verdadeiro e real'
+`Consistência` parece ser algo importante nesse lance todo.
+- `Consistência`: 'Que tende a ser firme, rígido ou duro.'
+- `Consistência`: 'Estado do que é coerente, verdadeiro e real'
 
-Eu não gosto muito de <code>Sinônimos</code> e <code>Antônimos</code> de palavras pois não me parece fazer muito <code>Sentido</code> em muitos casos, 
+Eu não gosto muito de `Sinônimos` e `Antônimos` de palavras pois não me parece fazer muito `Sentido` em muitos casos, 
 afinal tudo na vida depende. Foda, sempre volto nisso 😩😩, mas vamos deixar isso de lado por enquanto.
-No caso de <code>Consistências</code> narrativas acredito que <code>Lógica</code> se encaixaria como sinônimo.
+No caso de `Consistências` narrativas acredito que `Lógica` se encaixaria como sinônimo.
 
 <br>
 
 ### Logica
-Usando meu exemplo de seres humanos bons em apelar para a nossa <code>Lógica</code> os 
-Filósofos são excelentes em criar <code>Consistência</code> narrativa,
-já que eles utilizam de sua sabedoria para criar uma <code>Lógica</code> e 
-atingir uma <code>Consistência</code> na sua narrativa, que seria a busca pelo saber. 
+Usando meu exemplo de seres humanos bons em apelar para a nossa `Lógica` os 
+Filósofos são excelentes em criar `Consistência` narrativa,
+já que eles utilizam de sua sabedoria para criar uma `Lógica` e 
+atingir uma `Consistência` na sua narrativa, que seria a busca pelo saber. 
 
 Você pode achar que estou forcando, e pode até ser, 
 mas se pensar no método socrático, nem estou forcando tanto assim 
@@ -158,16 +158,16 @@ que consiste em o professor conduzir o aluno a um processo de reflexão e descob
 Para isso, o professor faz uso de perguntas simples e quase ingênuas que têm por objetivo, em primeiro lugar, 
 revelar as contradições presentes na atual forma de pensar do aluno'.
 
-E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a <code>Lógica</code>
+E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a `Lógica`
 mais ampla, rigorosa e sistematizada no ocidente (Sim eu lembro dessas paradas pelo simples fato
 que eu argumento comigo mesmo frequentemente como disse lá no começo do texto, já disse, o ser humano
 e sua mania de querer tornar suas histórias consistentes 😅😅
 
-Beleza cobrimos a parte da <code>Consistência</code> das narrativas das nossas histórias utilizando a Logica,
+Beleza cobrimos a parte da `Consistência` das narrativas das nossas histórias utilizando a Logica,
 conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na Logica
-não temos <code>Consistência</code>, porque, se não tivermos <code>Lógica</code>, logo não teremos <code>Consistência</code> 😩
+não temos `Consistência`, porque, se não tivermos `Lógica`, logo não teremos `Consistência` 😩
 
-E agora? Não podemos nos apoiar na Logica para darmos <code>Consistência</code> as nossas narrativas e atingimos
+E agora? Não podemos nos apoiar na Logica para darmos `Consistência` as nossas narrativas e atingimos
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
 que precisamos de um verdadeiro 'Deus Ex Machina'. E isso, precisamos da ajuda de Deus.
 
@@ -182,20 +182,20 @@ Logica
 #### O que seria a Religião (Hora do Wikipedia):
 >'A religião é geralmente definida como um sistema sociocultural de comportamentos e práticas, moralidades, crenças, visões de mundo, textos considerados sagrados, lugares santificados, profecias, ética ou organizações, que geralmente relacionam a humanidade com elementos sobrenaturais, transcendentais e espirituais; no entanto, não há consenso acadêmico sobre o que precisamente constitui uma religião...'
 
-##### e podemos também considerar que:
+#### e podemos também considerar que:
 >'... Dentro do que se define como religião podem-se encontrar muitas crenças e filosofias diferentes. As diversas religiões do mundo são de facto muito diferentes entre si. Porém ainda assim é possível estabelecer uma característica em comum entre todas elas... As religiões costumam também possuir relatos sobre a origem do Universo, da Terra e do Homem, e o que acontece após a morte...'
 
-<code>Consistências</code>, <code>Consistências</code> e <code>Consistências</code>. Ótimo! Dessa forma podemos seguir dando 
-<code>Consistência</code> para as nossas narrativas hora utilizando a Logica, hora utilizando a Religião.
+`Consistências`, `Consistências` e `Consistências`. Ótimo! Dessa forma podemos seguir dando 
+`Consistência` para as nossas narrativas hora utilizando a Logica, hora utilizando a Religião.
 
 <br>
 
-### O ser humano
+## O ser humano
 So para relembramos algumas coisas então:
 1. O ser humano e insatisfeito com sua natureza;
 2. Somos obcecados com Histórias (inclusive as nossas);
 3. Para termos boas Histórias precisamos de uma Narrativa que seja Consistente;
-4. Para garantirmos nossa <code>Consistência</code> temos dois sistemas: Logica e Esperança;
+4. Para garantirmos nossa `Consistência` temos dois sistemas: Logica e Esperança;
 
 O ser humano e realmente insatisfeito com sua natureza...
 
