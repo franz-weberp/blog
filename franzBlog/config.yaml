@@ -137,8 +137,7 @@ params:
             host:
             id:
     widgets:
-        page:
-            - type: toc
+        page: false
 
     defaultImage:
         opengraph:
