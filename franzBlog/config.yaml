@@ -136,9 +136,6 @@ params:
         cusdis:
             host:
             id:
-    widgets:
-        page:
-            - type: toc
 
     defaultImage:
         opengraph:

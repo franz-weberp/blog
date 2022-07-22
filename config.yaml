@@ -80,10 +80,6 @@ params:
         cusdis:
             host:
             id:
-
-    widgets:
-        homepage: []
-        page: []
         
     defaultImage:
         opengraph:
