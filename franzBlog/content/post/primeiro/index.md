@@ -82,14 +82,16 @@ Hmmm... E se fossemos gatos?
 <br>
 
 ## A insatisfação do ser humano com sua natureza
-O ser humano é realmente insatisfeito com sua natureza...
+    O ser humano é realmente insatisfeito com sua natureza...
 
-Se tentamos explicar algo para alguém e falhamos nos sentimos frustrados,
-nos esforçamos mais e mais e nos cansamos.
+    Se tentamos explicar algo para alguém e falhamos nos sentimos frustrados,
+    Nos esforçamos mais 
+    E mais e nos cansamos.
 
-Tentamos novamente e falhamos,
+    Tentamos novamente
+    E falhamos.
 
-mas alguns de nós são excepcionalmente 
+Mas alguns de nós são excepcionalmente 
 bons em pôr essas ideias que temos em prática para serem entendidas, 
 ou pelo menos entendível para outros.
 
@@ -150,7 +152,7 @@ mas se pensar no método socrático, nem estou forcando tanto assim
 e para facilitar seu trabalho copiei um trecho da Wikipedia,
 sobre o método socrático para resumir o que quero dizer:
 
-'O método socrático é uma técnica de investigação filosófica feita em diálogo, 
+> 'O método socrático é uma técnica de investigação filosófica feita em diálogo, 
 que consiste em o professor conduzir o aluno a um processo de reflexão e descoberta dos próprios valores. 
 Para isso, o professor faz uso de perguntas simples e quase ingênuas que têm por objetivo, em primeiro lugar, 
 revelar as contradições presentes na atual forma de pensar do aluno'.
@@ -168,28 +170,28 @@ E agora? Não podemos nos apoiar na Lógica para darmos `consistência` as nossa
 um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
 que precisamos de um verdadeiro 'Deus Ex Machina'. E isso, precisamos da ajuda de Deus.
 
-Dentro dos nossos 7 Paladinos da humanidade quando o assunto e se expressar sem utilizar a `lógica`
+Dentro dos nossos 7 paladinos da humanidade quando o assunto e se expressar sem utilizar a `lógica`
 podemos utilizar os Religiosos como fonte de explicação para as nossas histórias, ou melhor dizendo,
 a religião. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos
 definir algumas coisas.
 
 
 ### Religião
-#### O que seria a Religião (Hora do Wikipedia):
+O que seria a Religião (Hora do Wikipedia):
 >'A religião é geralmente definida como um sistema sociocultural de comportamentos e práticas, moralidades, crenças, visões de mundo, textos considerados sagrados, lugares santificados, profecias, ética ou organizações, que geralmente relacionam a humanidade com elementos sobrenaturais, transcendentais e espirituais; no entanto, não há consenso acadêmico sobre o que precisamente constitui uma religião...'
 
-#### e podemos também considerar que:
+E podemos também considerar que:
 >'... Dentro do que se define como religião podem-se encontrar muitas crenças e filosofias diferentes. As diversas religiões do mundo são de facto muito diferentes entre si. Porém ainda assim é possível estabelecer uma característica em comum entre todas elas... As religiões costumam também possuir relatos sobre a origem do Universo, da Terra e do Homem, e o que acontece após a morte...'
 
 `Consistências`, `consistências` e `consistências`. Ótimo! Dessa forma podemos seguir dando 
-`consistência` para as nossas narrativas hora utilizando a Lógica, hora utilizando a Religião.
+`consistência` para as nossas narrativas hora utilizando a `lógica`, hora utilizando a `religião`.
 
 ## O ser humano
 Só para relembramos algumas coisas então:
 > 1. O ser humano é insatisfeito com sua natureza;
 > 2. Somos obcecados com `histórias` (inclusive as nossas);
-> 3. Para termos boas `histórias` precisamos de uma Narrativa que seja Consistente;
-> 4. Para garantirmos nossa `consistência` temos dois sistemas: `lógica` e Esperança;
+> 3. Para termos boas `histórias` precisamos de uma Narrativa que seja `consistente`;
+> 4. Para garantirmos nossa `consistência` temos dois sistemas: `lógica` e `esperança`;
 
 O ser humano e realmente insatisfeito com sua natureza...
 
@@ -204,44 +206,47 @@ e que em menos de 1 ano já não aguentavam a mesma rotina,
 que tipo de animal, que supostamente está no topo da cadeia alimentar,
 fica doente porque não sai para dar um passeio? O ser humano é bizarro.
 
-## Os gatos
-E se fossemos gatos? Hmmm...
+## E se fossemos gatos? Hmmm...
 
     Os gatos sempre parecem estar de boa,
-    dormem a maior parte do dia,
-    acordam para comer, 
-    beber água, 
-    ir ao banheiro e caçar ocasionalmente.
+    Dormem a maior parte do dia,
+    Acordam para comer, 
+    Beber água, 
+    ir ao banheiro
+    E caçam ocasionalmente.
 
     Eles são extremos.
-    Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
+    Ou estão curiosos com o mundo ao seu redor
+    Ou estão pouco se fodendo.
     O que importa é que para eles o mundo está bom,
-    sempre está bom!
+    Sempre está bom!
 
     Eles não se importam com quem são,
-    onde estão,
-    quem está com eles. 
+    Onde estão,
+    Quem está com eles. 
     Se os humanos dão comida, eles comem,
     se não, eles caçam.
 
     Eles sempre estão bem com eles mesmos,
-    se precisar eles cooperam, mas em geral não.
-    Eles nunca foram verdadeiramente domesticados,
-    eles são os únicos animais que vivem com os humanos sem realizar nenhuma tarefa.
+    Se precisar eles cooperam, mas em geral não.
+    Eles nunca foram verdadeiramente domesticados.
+
+    Eles são os únicos animais que vivem com os humanos sem realizar nenhuma tarefa.
+
     Eles não são nossos,
-    nós que somos deles.
+    Nós que somos deles.
 
-    Se der sorte e eles gostarem de você,
-    ganhou uma companhia.
+    Se der sorte e eles gostarem de você, ganhou uma companhia.
+
     Se não der sorte,
-    eles se vão.
+    Eles se vão.
 
-    Gatos não tem a necessidade de contarem histórias sobre si mesmos,
-    não possuem filosofia, religião, moral ou ética.
-    E nem precisam
+    Gatos não tem a necessidade de contarem histórias sobre si mesmos.
+    Não possuem filosofia, religião, moral ou ética.
+    E nem precisam.
 
     Para eles não existe o certo ou o errado,
-    eles apenas seguem sua natureza.
+    Eles apenas seguem sua natureza.
     Sua ética vem de sua natureza e não suas ideias,
     Podem ser corajosos, provedores e protetores dos mais jovens.
 
