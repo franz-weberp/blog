@@ -2,6 +2,7 @@
 author = "Franz Weber Pimentel"
 title = "Qual é o seu animal favorito?"
 date = "2022-07-21"
+lastmod: "2022-07-22"
 description = "Uma pergunta que pode render assunto para um dia inteiro de conversa"
 tags = [
     "devaneios"
@@ -14,12 +15,12 @@ image = "cover-primeiro.png"
 +++
 
 Cachorro... Gato... Passarinho... Golfinho... Largato...
-Fazia muito tempo não me faziam essa pergunta.
+Fazia muito tempo não me perguntavam isso.
 
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
 na maioria das vezes pensava: 
 
-> "Ué, vou apenas de falar gato e você vai se contentar com a resposta, ou no máximo me perguntar o porquê, ou falar qual é o seu e nada mais. Você não quer que eu reflita profundamente sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? Jogar conversa fora? Matar tempo? Criar conexão? Tentar me conhecer?"
+> "Ué, vou falar gato e você vai se contentar com a resposta, ou no máximo me perguntar o porquê, ou falar qual é o seu e nada mais. Você não quer que eu reflita profundamente sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? Jogar conversa fora? Matar tempo? Criar conexão? Tentar me conhecer?"
 
 Se você nunca conversou comigo talvez você não saiba, se você apenas bateu-papo comigo talvez você não saiba.
 Se me conhece apenas de vista ou me viu apenas observando uma conversa, então provavelmente você não saiba.
@@ -42,15 +43,12 @@ Mas agora eu tenho um problema, e um bem complicado.
 Como que caralhos eu vou explicar para você algo que eu penso,
 algo que depende, algo que para ter sentido, precisa ser sentido? 
 e ainda mais, precisa ser sentido por mim, sendo que sentimos de formas diferentes, 
-afinal somos pessoas diferentes.
-
-😮‍💨😮‍💨😮‍💨
+afinal somos pessoas diferentes 😮‍💨
 
 Se você não quer pensar sobre isso ou está sem tempo... é isso que tenho para te dizer.
 Não tem como te explicar melhor do que isso sem me entender. 
 
-Eu gosto de gato porque eles são legais e não dão muito trabalho, 
-tchau...
+Eu gosto de gato porque eles são legais e não dão muito trabalho...tchau...
 
 ---
 
@@ -104,7 +102,7 @@ ou pelo menos entendível para outros.
 
 Como humanos utilizamos muitos artifícios para nos comunicarmos com nossos semelhantes,
 precisamos que os outros nos entendam, precisamos de um significado, precisamos nos sentir
-pertencentes, somos obcecados por histórias, ao ponto de vivermos nossas vidas baseadas em histórias que contamos sobre nós mesmos na nossa mente. O ser humano é bizarro.
+pertencentes, somos obcecados por `histórias`, ao ponto de vivermos nossas vidas baseadas em histórias que contamos sobre nós mesmos na nossa mente. O ser humano é bizarro.
 
 Kkkkkk, eu realmente gostaria que a nossa natureza fosse mais simples.
 Não consigo resumir o que eu penso sobre os humanos em nossa humanidade em um parágrafo de poucas linhas.
@@ -112,7 +110,7 @@ Mas se você leu até aqui já entendeu um pouco disso sobre mim, então vou ela
 
 ### E se fossemos gatos? Hmmm...
 
-    Teríamos começado a 12.000 anos atrás
+    Teríamos começado a 12.000 anos atrás,
     Nos aproximando das fazendas dos humanos,
     Onde podíamos comer uns ratos que se juntavam
     E que comiam as plantações dos humanos.
@@ -126,7 +124,7 @@ Mas se você leu até aqui já entendeu um pouco disso sobre mim, então vou ela
     Para que quando surgisse mais ratos,
     Acabássemos com eles.
 
-É isso! Acabou! Simples assim, não vou continuar narrando isso. Quer merda hein?! 
+É isso! Acabou! Simples assim... não vou continuar narrando isso. Quer merda hein?! 
 Achou que teria uma mega aula de história de como surgiu a relação humanidade e gatos?
 Bom, eu te avisei alguns parágrafos atrás que somos obcecados com histórias, que elas precisam fazer sentido para que possamos viver tranquilos.
 
@@ -160,17 +158,16 @@ que consiste em o professor conduzir o aluno a um processo de reflexão e descob
 Para isso, o professor faz uso de perguntas simples e quase ingênuas que têm por objetivo, em primeiro lugar, 
 revelar as contradições presentes na atual forma de pensar do aluno'.
 
-E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a lógica
-mais ampla, rigorosa e sistematizada no ocidente (Eu lembro dessas paradas para ficar argumentando comigo mesmo, já disse, o ser humano
-e sua mania de querer tornar suas histórias consistentes 😅😅)
+E se ainda não acredita em mim, Aristóteles foi um dos principais responsáveis por tornar a lógica
+mais ampla, rigorosa e sistematizada no ocidente
 
-Beleza, cobrimos a parte da consistência das narrativas das nossas histórias utilizando a lógica,
-conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na lógica
-não temos consistência, porque, se não tivermos lógica, logo não teremos consistência 😩
+> (Eu lembro dessas paradas para ficar argumentando comigo mesmo, já disse, o ser humano e sua mania de querer tornar suas histórias consistentes 😅😅)
 
-E agora? Não podemos nos apoiar apenas na Lógica para darmos consistência as nossas narrativas e atingimos
-um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia aposto que nos diriam
-que precisamos de um verdadeiro 'Deus Ex Machina'. É isso, precisamos da ajuda de Deus.
+Beleza, cobrimos a parte da consistência das narrativas das nossas histórias utilizando a lógica, conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na lógica não temos consistência, porque, se não tivermos lógica, logo não teremos consistência 😩
+
+E agora? Não podemos nos apoiar apenas na lógica para darmos consistência as nossas narrativas e atingimos um verdadeiro impasse para resolvermos nossa questão. Se estivéssemos na Grécia antiga aposto que nos diriam que precisamos de um verdadeiro 'Deus Ex Machina'. 
+
+É isso, precisamos da ajuda de Deus.
 
 Dentro dos nossos 7 paladinos da humanidade quando o assunto e se expressar sem utilizar a lógica podemos utilizar os Religiosos como fonte de explicação para as nossas histórias, ou melhor dizendo, a `religião`. Quero dizer, as religiões... Que confusão. Vamos tentar novamente, mas primeiro vamos definir algumas coisas.
 
@@ -187,21 +184,21 @@ consistência para as nossas narrativas hora utilizando a lógica, hora utilizan
 ## Só para relembramos algumas coisas então:
 > 1. O ser humano é insatisfeito com sua natureza;
 > 2. Somos obcecados com histórias (inclusive as nossas);
-> 3. Para termos boas histórias precisamos de uma Narrativa que seja consistente;
+> 3. Para termos boas histórias precisamos de uma narrativa que seja consistente;
 > 4. Para garantirmos nossa consistência temos dois sistemas: lógica e esperança;
 
 O ser humano é realmente insatisfeito com sua natureza...
 
-Deixe uma pessoa sozinha no mundo e a chances dela enlouquecer são maiores que 
-a quantidade de grãos de areia na praia, estrelas no céu ou que gatos em abrigos.
-O ser humano enlouquece quando só, ou devo dizer, quando acompanhado apenas de si mesmo?
+    Deixe uma pessoa sozinha no mundo e a chances dela enlouquecer são maiores que 
+    a quantidade de grãos de areia na praia, estrelas no céu ou que gatos em abrigos.
+    O ser humano enlouquece quando só, ou devo dizer, quando acompanhado apenas de si mesmo?
 
-Em 2020 vimos pessoas ficando doentes por não poderem sair de casa e socializar,
-poder conversar pessoalmente com amigos e familiares,
-que viram o mesmo ambiente durante horas e horas do seu dia,
-e que em menos de 1 ano já não aguentavam a mesma rotina,
-que tipo de animal, que supostamente está no topo da cadeia alimentar,
-fica doente porque não sai para dar um passeio? O ser humano é bizarro.
+    Em 2020 vimos pessoas ficando doentes por não poderem sair de casa e socializar,
+    poder conversar pessoalmente com amigos e familiares,
+    que viram o mesmo ambiente durante horas e horas do seu dia,
+    e que em menos de 1 ano já não aguentavam a mesma rotina,
+    que tipo de animal, que supostamente está no topo da cadeia alimentar,
+    fica doente porque não sai para dar um passeio? O ser humano é bizarro.
 
 ## E se fossemos gatos? Hmmm...
 
@@ -253,14 +250,16 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
     Pois somos humanos com nossas
     Histórias, Manias, Filosofias e Religiões.
 
-Podemos apenas aprender algumas lições com os gatos:
-
-> * Esqueça de procurar a felicidade, afinal não sabemos o que ela é. Sendo curioso talvez você a encontre;
-> * Procure viver o momento, afinal é o que temos;
-> * E por último não leve tão a sério essas lições;
+    Podemos apenas aprender algumas lições com os gatos:
+    
+    Esqueça de procurar a felicidade, afinal não sabemos o que ela é. Sendo curioso talvez você a encontre;
+    
+    Procure viver o momento, afinal é o que temos;
+    
+    E por último não leve tão a sério essas lições;
 
 ---
 
 Esse texto serve apenas para expressar uma opinião minha sobre os gatos. Eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consiga vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. 
 
-Então para quem queira saber essa é minha opinião.
+> Então para quem queira saber essa é minha opinião.
