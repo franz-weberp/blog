@@ -21,10 +21,7 @@ Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
 na maioria das vezes pensava: 
 
-"Ué, vou apenas de falar gato e então você vai se contentar com a resposta, ou no máximo 
-me perguntar o porquê ou falar qual e o seu, e nada mais. Você não quer que eu reflita profundamente 
-sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? 
-Jogar conversa fora? Matar tempo? Criar conexões? Tentar me conhecer?"
+> "Ué, vou apenas de falar gato e então você vai se contentar com a resposta, ou no máximo me perguntar o porquê ou falar qual e o seu, e nada mais. Você não quer que eu reflita profundamente sobre a questão ou nada do gênero, então por quê? por que está me perguntando isso? Jogar conversa fora? Matar tempo? Criar conexões? Tentar me conhecer?"
 
 Se você nunca conversou comigo talvez você não saiba, se você apenas bateu-papo comigo talvez você não saiba.
 Se me conhece apenas de vista ou me viu apenas observando uma conversa, então provavelmente você não saiba.
@@ -187,10 +184,10 @@ definir algumas coisas.
 
 ## O ser humano
 Só para relembramos algumas coisas então:
-1. O ser humano é insatisfeito com sua natureza;
-2. Somos obcecados com `histórias` (inclusive as nossas);
-3. Para termos boas `histórias` precisamos de uma Narrativa que seja Consistente;
-4. Para garantirmos nossa `consistência` temos dois sistemas: `lógica` e Esperança;
+> 1. O ser humano é insatisfeito com sua natureza;
+> 2. Somos obcecados com `histórias` (inclusive as nossas);
+> 3. Para termos boas `histórias` precisamos de uma Narrativa que seja Consistente;
+> 4. Para garantirmos nossa `consistência` temos dois sistemas: `lógica` e Esperança;
 
 O ser humano e realmente insatisfeito com sua natureza...
 
@@ -208,38 +205,33 @@ fica doente porque não sai para dar um passeio? O ser humano é bizarro.
 ## Os gatos
 E se fossemos gatos? Hmmm...
 
-Os gatos sempre parecem estar de boa, dormem a maior parte do dia,
-acordam para comer, beber água, ir ao banheiro e caçar ocasionalmente.
+    Os gatos sempre parecem estar de boa, dormem a maior parte do dia,
+    acordam para comer, beber água, ir ao banheiro e caçar ocasionalmente.
 
-Eles são extremos: Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
-O que importa é que para eles o mundo está bom, sempre está bom!
+    Eles são extremos: Ou estão curiosos com o mundo ao seu redor ou estão pouco se fodendo.
+    O que importa é que para eles o mundo está bom, sempre está bom!
 
-Eles não se importam com quem são, onde estão, quem está com eles. 
-Se os humanos dão comida, eles comem, se não, eles caçam.
+    Eles não se importam com quem são, onde estão, quem está com eles. 
+    Se os humanos dão comida, eles comem, se não, eles caçam.
 
-Eles sempre estão bem com eles mesmos, se precisar eles cooperam, mas em geral não.
-Eles nunca foram verdadeiramente domesticados, eles são os únicos animais que vivem
-com os humanos sem realizar nenhuma tarefa.
-Eles não são nossos, nós que somos deles.
+    Eles sempre estão bem com eles mesmos, se precisar eles cooperam, mas em geral não.
+    Eles nunca foram verdadeiramente domesticados, eles são os únicos animais que vivem
+    com os humanos sem realizar nenhuma tarefa.
+    Eles não são nossos, nós que somos deles.
 
-Se der sorte e eles gostarem de você, ganhou uma companhia.
-Se não der sorte eles se vão.
+    Se der sorte e eles gostarem de você, ganhou uma companhia.
+    Se não der sorte eles se vão.
 
-Gatos não tem a necessidade de contarem histórias sobre si mesmos,
+    Gatos não tem a necessidade de contarem histórias sobre si mesmos,
+    não possuem filosofia, religião, moral ou ética. E nem precisam
 
-não possuem filosofia, religião, moral ou ética. E nem precisam
+    Para eles não existe o certo ou o errado, eles apenas seguem sua natureza.
+    Sua ética vem de sua natureza e não suas ideias,
+    Podem ser corajosos, provedores e protetores dos mais jovens.
 
-Para eles não existe o certo ou o errado, eles apenas seguem sua natureza.
-
-Sua ética vem de sua natureza e não suas ideias,
-
-Podem ser corajosos, provedores e protetores dos mais jovens.
-
-Mas caso achem necessário fogem para sobreviver e nem pensam mais na questão.
-
-Mas não deveríamos tentar ser como os gatos, 
-
-Pois somos humanos com nossas histórias, manias, filosofias e religiões.
+    Mas caso achem necessário fogem para sobreviver e nem pensam mais na questão.
+    Mas não deveríamos tentar ser como os gatos, 
+    Pois somos humanos com nossas histórias, manias, filosofias e religiões.
 
 Podemos apenas aprender algumas lições:
 
