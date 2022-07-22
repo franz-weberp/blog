@@ -16,8 +16,6 @@ image = "cover-primeiro.png"
 Cachorro... Gato... Passarinho... Golfinho... Largatos...
 Fazia muito tempo que não ouvia uma pessoa me fazendo essa pergunta.
 
----
-
 Eu nunca entendi o porquê as pessoas fazem perguntas sobre os nossos gostos pessoais,
 na maioria das vezes pensava: 
 
@@ -81,8 +79,7 @@ Hmmm... E se fossemos gatos?
 
 <br>
 
-## A insatisfação do ser humano com sua natureza
-    O ser humano é realmente insatisfeito com sua natureza...
+## O ser humano é realmente insatisfeito com sua natureza...
 
     Se tentamos explicar algo para alguém e falhamos nos sentimos frustrados,
     Nos esforçamos mais 
@@ -132,7 +129,7 @@ Estamos constantemente atrás de `consistência` para as narrativas de nossas hi
 reafirmarmos essa história para que nós possamos nos sentir bem.
 
 ### Consistência
-`Consistência` parece ser algo importante nesse lance todo.
+> `Consistência` parece ser algo importante nesse lance todo.
 > - `Consistência`: 'Que tende a ser firme, rígido ou duro.'
 > - `Consistência`: 'Estado do que é coerente, verdadeiro e real'
 
@@ -149,7 +146,7 @@ atingir uma `consistência` na sua narrativa, que seria a busca pelo saber.
 
 Você pode achar que estou forcando, e pode até ser, 
 mas se pensar no método socrático, nem estou forcando tanto assim 
-e para facilitar seu trabalho copiei um trecho da Wikipedia,
+e para facilitar seu trabalho copiei um trecho da Wikipédia,
 sobre o método socrático para resumir o que quero dizer:
 
 > 'O método socrático é uma técnica de investigação filosófica feita em diálogo, 
@@ -158,9 +155,8 @@ Para isso, o professor faz uso de perguntas simples e quase ingênuas que têm p
 revelar as contradições presentes na atual forma de pensar do aluno'.
 
 E se ainda não acredita em mim Aristóteles é um dos principais responsáveis por tornar a `lógica`
-mais ampla, rigorosa e sistematizada no ocidente (Sim eu lembro dessas paradas pelo simples fato
-que eu argumento comigo mesmo frequentemente como disse lá no começo do texto, já disse, o ser humano
-e sua mania de querer tornar suas histórias consistentes 😅😅
+mais ampla, rigorosa e sistematizada no ocidente (Eu lembro dessas paradas para ficar argumentando comigo mesmo, já disse, o ser humano
+e sua mania de querer tornar suas histórias consistentes 😅😅)
 
 Beleza cobrimos a parte da `consistência` das narrativas das nossas histórias utilizando a `lógica`,
 conferida pelos nossos sábios filósofos, certo?... Não... Infelizmente. Se nos apoiarmos apenas na `lógica`
@@ -177,7 +173,7 @@ definir algumas coisas.
 
 
 ### Religião
-O que seria a Religião (Hora do Wikipedia):
+O que seria a Religião (Hora do Wikipédia):
 >'A religião é geralmente definida como um sistema sociocultural de comportamentos e práticas, moralidades, crenças, visões de mundo, textos considerados sagrados, lugares santificados, profecias, ética ou organizações, que geralmente relacionam a humanidade com elementos sobrenaturais, transcendentais e espirituais; no entanto, não há consenso acadêmico sobre o que precisamente constitui uma religião...'
 
 E podemos também considerar que:
@@ -263,4 +259,4 @@ Podemos apenas aprender algumas lições:
 
 ---
 
-Esse texto serve apenas para expressão uma opinião minha sobre os gatos, mas eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consiga vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. Então para quem queira saber essa é minha opinião.
+Esse texto serve apenas para expressar uma opinião minha sobre os gatos. Eu não consigo explicar o que penso sobre os gatos sem explicar o que penso sobre o ser humano e não consigo explicar o que penso sobre o ser humano sem explicar o que penso do nosso sistema de ser. Como eu escrevi mais cedo, na minha opinião quando você está tendo uma conversa com alguém, vale mais explicar como você sente (por mais que seja difícil) para que quem receba a informação tente se aproximar do seu modo de ver as coisas para que consiga vislumbrar você de verdade, mas nem todo mundo tem tempo para isso e muitas vezes não vale seu esforço de explicar para quem realmente não queira saber. Então para quem queira saber essa é minha opinião.
