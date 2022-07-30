@@ -10,7 +10,7 @@ tags = [
 categories = [
     "Devaneios"
 ]
-image = "cover-primeiro.png"
+image = "cover-primeiro.webp"
 
 +++
 
